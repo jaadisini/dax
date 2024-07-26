@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", "2d3e87f244740e5c8286591940e24cd4")
 
 EVAL = list(map(int, getenv("EVAL", "7149602071").split()))
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7414737614:AAEEkNRv2LH2yXR5RXG21hgmYoDkL7PFlrM")
+BOT_TOKEN = getenv("BOT_TOKEN", "7272369947:AAE74JAUt600SfCTa_xLQdKarvtHMRjQCgQ")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","dza4me")
 # --------------------------------------------------------
@@ -28,7 +28,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "Assistantcill")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://erkbwrs084:909090@cluster0.qdrfgmb.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://jembutan1:1234@cluster0.w186hoa.mongodb.net/?retryWrites=true&w=majority")
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 
