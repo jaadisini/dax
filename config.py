@@ -9,20 +9,20 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID", "23770828"))
-API_HASH = getenv("API_HASH", "2d3e87f244740e5c8286591940e24cd4")
+API_ID = int(getenv("API_ID", "26917284"))
+API_HASH = getenv("API_HASH", "e89fc9ea865e7494f742dab7132d28f9")
 
 EVAL = list(map(int, getenv("EVAL", "7149602071").split()))
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7272369947:AAE74JAUt600SfCTa_xLQdKarvtHMRjQCgQ")
+BOT_TOKEN = getenv("BOT_TOKEN", "7250836835:AAGWmAAeQn4bhTbuMW1RhGHc9nCVS6_rXUQ")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","dza4me")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Dza4yu")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "cillxmusik")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Dzamusikbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "𝗗𝘇𝗮 ✘ 𝗠𝗨𝗦𝗜𝗖")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Assistantcill")
+ASSUSERNAME = getenv("ASSUSERNAME" , "DzaAssistant")
 # ---------------------------------------------------------
 
 
@@ -37,10 +37,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002070417836))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002149981793))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7149602071))
+OWNER_ID = int(getenv("OWNER_ID", 1543559565))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -69,8 +69,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/speakupable")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DzaInfoo")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/zeropercentdza")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DzaSupport")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
